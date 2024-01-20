@@ -22,7 +22,7 @@ const cartSlice = createSlice({
         state.products.push({ ...action.payload, quantity: 1 });
       }
     },
-    removeFromCart: (state, action: PayloadAction<IProduct>) => {
+    removeOneFromCart: (state, action: PayloadAction<IProduct>) => {
       const existing = state.products.find(
         (product) => product._id === action.payload._id
       );
@@ -33,8 +33,14 @@ const cartSlice = createSlice({
         state.products.push({ ...action.payload, quantity: 1 });
       }
     },
+    removeFromCart: (state, action: PayloadAction<IProduct>) => {
+      state.products = state.products.filter(
+        (product) => product._id !== action.payload._id
+      );
+    },
   },
 });
 
-export const { addToCart, removeFromCart } = cartSlice.actions;
+export const { addToCart, removeOneFromCart, removeFromCart } =
+  cartSlice.actions;
 export default cartSlice.reducer;
