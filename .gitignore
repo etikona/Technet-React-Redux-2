@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+// Custom Ignored files to send Github
+/node_modules
