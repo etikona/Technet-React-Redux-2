@@ -1,0 +1,144 @@
+[
+  {
+    "name": "Haylou GST",
+    "image": "https://live.staticflickr.com/65535/52953899202_478089ea5f_h.jpg",
+    "price": 31.99,
+    "features": [
+      "1.69'' HD display",
+      "Support 12 workout modes",
+      "Support all-day heart rate and blood oxygen monitoring",
+      "Support intelligent sleep monitoring",
+      "IP68 dustproof and waterproof",
+      "20 days of battery life"
+    ],
+    "status": true,
+    "rating": 4
+  },
+  {
+    "name": "Fitbit Flex 2",
+    "image": "https://live.staticflickr.com/65535/52953900682_58f62e9909_h.jpg",
+    "price": 49.99,
+    "features": [
+      "Ultra-slim design",
+      "Track steps, distance, calories burned",
+      "SmartTrack automatically recognizes exercises",
+      "Swim-proof for tracking swimming",
+      "Up to 5 days of battery life"
+    ],
+    "status": true,
+    "rating": 4.5
+  },
+  {
+    "name": "Samsung Galaxy Fit 2",
+    "image": "https://live.staticflickr.com/65535/52953901842_265077a6cb_h.jpg",
+    "price": 59.99,
+    "features": [
+      "1.1'' AMOLED display",
+      "Auto fitness and wellness tracking",
+      "Heart rate and sleep tracking",
+      "Water-resistant design",
+      "Up to 15 days of battery life"
+    ],
+    "status": true,
+    "rating": 4.2
+  },
+  {
+    "name": "Xiaomi Mi Band 6",
+    "image": "https://live.staticflickr.com/65535/52953903122_090d1b3e8c_h.jpg",
+    "price": 34.99,
+    "features": [
+      "1.56'' AMOLED display",
+      "SpO2 measurement",
+      "24/7 heart rate monitoring",
+      "Sleep tracking",
+      "Water-resistant",
+      "14 days of battery life"
+    ],
+    "status": true,
+    "rating": 4.3
+  },
+  {
+    "name": "Garmin Vivosmart 4",
+    "image": "https://live.staticflickr.com/65535/52953904482_005dbf929e_h.jpg",
+    "price": 89.99,
+    "features": [
+      "Pulse Ox sensor",
+      "Body Battery energy monitoring",
+      "Advanced sleep tracking",
+      "Slim and stylish design",
+      "Up to 7 days of battery life"
+    ],
+    "status": true,
+    "rating": 4.6
+  },
+  {
+    "name": "Apple Watch SE",
+    "image": "https://live.staticflickr.com/65535/52953905862_7c5957c0cd_h.jpg",
+    "price": 279.99,
+    "features": [
+      "Retina display",
+      "Built-in GPS",
+      "Heart rate notifications",
+      "Swimproof design",
+      "Up to 18 hours of battery life"
+    ],
+    "status": true,
+    "rating": 4.8
+  },
+  {
+    "name": "Huawei Band 6",
+    "image": "https://live.staticflickr.com/65535/52953907162_79e68c5677_h.jpg",
+    "price": 39.99,
+    "features": [
+      "1.47'' AMOLED display",
+      "SpO2 monitoring",
+      "TruSeen 4.0 heart rate monitoring",
+      "Sleep tracking",
+      "Two-week battery life"
+    ],
+    "status": true,
+    "rating": 4.4
+  },
+  {
+    "name": "Fossil Gen 5",
+    "image": "https://live.staticflickr.com/65535/52953908482_564c372a82_h.jpg",
+    "price": 199.99,
+    "features": [
+      "1.28'' AMOLED display",
+      "Built-in GPS",
+      "Heart rate and activity tracking",
+      "Water-resistant design",
+      "Multiple day battery life"
+    ],
+    "status": true,
+    "rating": 4.7
+  },
+  {
+    "name": "Amazfit Bip U Pro",
+    "image": "https://live.staticflickr.com/65535/52953909842_f64a5e4f16_h.jpg",
+    "price": 69.99,
+    "features": [
+      "1.43'' HD color display",
+      "Built-in Alexa",
+      "Heart rate monitoring",
+      "SpO2 measurement",
+      "9 days of battery life"
+    ],
+    "status": true,
+    "rating": 4.1
+  },
+  {
+    "name": "Polar Ignite 2",
+    "image": "https://live.staticflickr.com/65535/52953911182_87f0fc6775_h.jpg",
+    "price": 229.99,
+    "features": [
+      "1.2'' always-on color display",
+      "FitSpark daily training guide",
+      "Nightly Recharge recovery measurement",
+      "GPS and heart rate tracking",
+      "Up to 5 days of battery life"
+    ],
+    "status": true,
+    "rating": 4.5
+  }
+]
